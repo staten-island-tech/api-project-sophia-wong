@@ -17,5 +17,11 @@
   },
   "browserslist": [
     "since 2017-06"
-  ]
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.6.2"
+  }
 }
